@@ -11,5 +11,5 @@ In this section, I solve entry-level challenges from **Quera** to build a strong
 
 </>
 ### 2. **A Simple Question (simple_question_solution.cpp)**
-   - [cite_start]**Task:** Print a specific sentence $n$ times.
+   - **Task:** Print a specific sentence 'n' times.
    - **Key Learning:** Basic repetition logic in C++.
